@@ -30,5 +30,5 @@ A fully-featured GUI-based Student Record System built using **Python**, **PyQt5
 
 ---
 
-## 📁 Folder Structure
+
 
